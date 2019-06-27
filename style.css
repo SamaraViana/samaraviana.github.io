@@ -1,0 +1,21 @@
+body{
+	font-family: "Quattrocento Sans", sans-serif;
+}
+
+.navbar-reprograma {
+	background-color: #ffd3fe; 
+}
+
+	h1,h2,h3{
+		font-family: Montserrat, sans-serif;
+	}
+
+	.charles-pagina{
+		border: 6px solid #ffd3fe;
+		width: -1000%;
+	}
+
+	.charles-imagem{
+		border: 6px solid #ffd3fe;
+		width: -1500%
+	}
